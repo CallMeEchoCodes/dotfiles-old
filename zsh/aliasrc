@@ -1,0 +1,15 @@
+alias ls="exa -hga --color=auto --icons"
+alias l="exa -hgal --color=auto --icons"
+alias la="exa -hga --color=auto --icons"
+
+alias nano="nvim"
+alias vim="nvim"
+alias vi="nvim"
+
+alias disablemonitor="xrandr --output eDP-1 --off"
+alias enablemonitor="xrandr --output eDP-1 --auto"
+
+alias :q="exit"
+alias shutdown="poweroff"
+alias restart="reboot"
+

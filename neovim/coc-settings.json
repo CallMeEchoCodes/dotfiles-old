@@ -1,0 +1,10 @@
+{
+	"eslint.packageManager": "pnpm",
+	"eslint.autoFixOnSave": true,
+	"coc.preferences.formatOnSaveFiletypes": [
+		"*"
+	],
+	"colors.filetypes": [
+		"*"
+	]
+}
