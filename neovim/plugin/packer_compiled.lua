@@ -85,6 +85,11 @@ _G.packer_plugins = {
     path = "/home/echo/.local/share/nvim/site/pack/packer/start/coc.nvim",
     url = "https://github.com/neoclide/coc.nvim"
   },
+  ["i3config.vim"] = {
+    loaded = true,
+    path = "/home/echo/.local/share/nvim/site/pack/packer/start/i3config.vim",
+    url = "https://github.com/mboughaba/i3config.vim"
+  },
   ["lualine.nvim"] = {
     loaded = true,
     path = "/home/echo/.local/share/nvim/site/pack/packer/start/lualine.nvim",

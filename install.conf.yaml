@@ -11,7 +11,7 @@
    ~/.Xresources: Xresources
    ~/.aliasrc: zsh/aliasrc
    ~/.gitconfig:
-   ~/.config/i3: i3
+   ~/.config/i3/config: main.i3config
    ~/.config/polybar: polybar
    ~/.config/kitty: kitty
    ~/.config/rofi: rofi
