@@ -17,6 +17,9 @@
    ~/.config/rofi: rofi
    ~/.local/share/rofi/themes: rofithemes
    ~/.config/dunst: dunst
+   ~/.dotfiles/powercord/src/Powercord/themes: powercordthemes
+   ~/.dotfiles/powercord/src/Powercord/plugins: powercordplugins
+   ~/.config/picom.conf: picom.conf
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
