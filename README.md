@@ -18,6 +18,7 @@ Before i start rambling lets get straight into the install guide
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------- |
 | [i3 Gaps Rounded](https://github.com/FinnHering/i3)                    | A fork of i3wm tiling window manager with more features, including gaps and rounded corners   | Window Manager                         |
 | [Inter Nerd Font](https://aur.archlinux.org/packages/nerd-fonts-inter) | Inter Font, patched with the Nerd Fonts Patcher                                               | System Font                            |
+| [JetBrains Mono Nerd Font](https://aur.archlinux.org/packages/nerd-fonts-jetbrains-mono) | A Nerd Font patched version of JetBrains Mono | Console font |
 | [polybar](https://github.com/polybar/polybar)                          | A fast and easy-to-use tool for creating status bars                                          | Top Bar                                |
 | [rofi](https://github.com/davatorium/rofi)                             | A window switcher, Application launcher and dmenu replacement.                                | App launcher, switcher, and power menu |
 | [Dunst](https://dunst-project.org)                                     | A lightweight replacement for the notification daemons provided by most desktop environments. | Notification Daemon                    |
