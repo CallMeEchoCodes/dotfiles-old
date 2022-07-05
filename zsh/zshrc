@@ -21,5 +21,4 @@ source $ZSH/oh-my-zsh.sh
 export EDITOR="/bin/nvim"
 
 [ -f "$HOME/.aliasrc" ] && source "$HOME/.aliasrc"
-
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
