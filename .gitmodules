@@ -4,3 +4,18 @@
 [submodule "powercord"]
 	path = powercord
 	url = https://github.com/powercord-org/powercord
+[submodule "powercordplugins/theme-toggler"]
+	path = powercordplugins/theme-toggler
+	url = https://github.com/kasi-archive/theme-toggler
+[submodule "powercordthemes/catppuccin"]
+	path = powercordthemes/catppuccin
+	url = https://github.com/catppuccin/discord
+[submodule "theming/catppuccin-zsh-syntax-highlighting"]
+	path = theming/catppuccin-zsh-syntax-highlighting
+	url = https://github.com/catppuccin/zsh-syntax-highlighting
+[submodule "themes/catppuccin-zsh-syntax-highlighting"]
+	path = themes/catppuccin-zsh-syntax-highlighting
+	url = https://github.com/catppuccin/zsh-syntax-highlighting
+[submodule "theming/catppuccin-spotify-tui"]
+	path = theming/catppuccin-spotify-tui
+	url = https://github.com/catppuccin/spotify-tui
