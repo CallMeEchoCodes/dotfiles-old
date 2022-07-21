@@ -50,7 +50,9 @@ packer.startup(function(use)
 		as = "catppuccin",
 	})
 	use({ "sheerun/vim-polyglot" })
+	use({ "ziglang/zig.vim" })
 	use({ "tpope/vim-fugitive" })
+	use({ "wakatime/vim-wakatime" })
 	use({
 		"akinsho/bufferline.nvim",
 		tag = "v2.*",
