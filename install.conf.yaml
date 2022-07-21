@@ -20,6 +20,7 @@
    ~/.dotfiles/powercord/src/Powercord/themes: powercordthemes
    ~/.dotfiles/powercord/src/Powercord/plugins: powercordplugins
    ~/.config/picom.conf: picom.conf
+   ~/.config/spotify-tui/config.yaml: theming/catppuccin-spotify-tui/mocha.yml
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
