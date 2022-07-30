@@ -1,0 +1,26 @@
+- defaults:
+    link:
+      create: true
+      relink: true
+
+- clean: ['~', '~/.config']
+
+- link:
+   ~/.config/nvim: neovim
+   ~/.zshrc: zsh/zshrc
+   ~/.Xresources: Xresources
+   ~/.aliasrc: zsh/aliasrc
+   ~/.gitconfig:
+   ~/.config/i3/config: main.i3config
+   ~/.config/polybar: polybar
+   ~/.config/kitty: kitty
+   ~/.config/rofi: rofi
+   ~/.local/share/rofi/themes: rofithemes
+   ~/.config/dunst: dunst
+   ~/.dotfiles/powercord/src/Powercord/themes: powercordthemes
+   ~/.dotfiles/powercord/src/Powercord/plugins: powercordplugins
+   ~/.config/picom.conf: picom.conf
+   ~/.config/spotify-tui/config.yaml: theming/catppuccin-spotify-tui/mocha.yml
+
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]
