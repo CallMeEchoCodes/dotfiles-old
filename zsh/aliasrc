@@ -10,5 +10,9 @@ alias :q="exit"
 alias shutdown="poweroff"
 alias restart="reboot"
 
+alias cls="clear && neofetch"
+
+alias yay="paru"
+
 [ -f "$HOME/.local.aliasrc" ] && source "$HOME/.local.aliasrc"
 
