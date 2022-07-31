@@ -40,7 +40,9 @@ Once you have atleast all of the [required dependencies](#required-dependencies)
 2. Delete/move any already existing configurations of the dependencies you installed
 3. `cd` into `~/.dotfiles`
 `cd ~/.dotfiles`
-4. Run `./install`
+4. Install `dossier`
+`<your-aur-helper> -S dossier`
+4. Run `dossier install`
 5. Add `exec i3` to your `.xinitrc`
 6. Type `startx` to open i3wm!
 
