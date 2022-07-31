@@ -4,7 +4,7 @@ export ZSH="$HOME/.oh-my-zsh"
 
 # ZSH_THEME=""
 
-neofetch
+fetcho
 eval "$(starship init zsh)"
 
 zstyle ':omz:update' mode reminder
